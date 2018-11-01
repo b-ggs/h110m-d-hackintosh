@@ -1,6 +1,6 @@
 # ASUS H110M-D Hackintosh
 
-Configured for macOS 10.13.6 High Sierra as iMac17,1
+Configured for macOS 10.14.1 Mojave as iMac17,1
 
 ## System Configuration:
 
@@ -11,14 +11,10 @@ Configured for macOS 10.13.6 High Sierra as iMac17,1
 
 ## Working
 
-* Intel HD 530 standalone
-* Sapphire RX 460 as main card
-* Networking via Realtek 8111
-* Sound via ALC887
-
-## TODO
-
-* Attempt to install Mojave
+* Intel HD 530 standalone via WhateverGreen
+* Sapphire RX 460 as main card via WhateverGreen
+* Networking via Realtek8111
+* ALC887 via AppleALC
 
 ## Sources
 
