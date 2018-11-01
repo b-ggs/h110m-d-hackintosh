@@ -183,7 +183,7 @@
 		<key>Arguments</key>
 		<string>dart=0 darkwake=0</string>
 		<key>CustomLogo</key>
-		<string>None</string>
+		<false/>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -294,7 +294,7 @@
 				<key>Comment</key>
 				<string>t1-10.8-AppleHDA-Realtek-ALC887</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				ixnUEQ==
@@ -312,7 +312,7 @@
 				<key>Comment</key>
 				<string>t1-AppleHDA-Resources-xml&gt;zml-(cloverALC-all_codecs)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				eG1sLnps
@@ -330,7 +330,7 @@
 				<key>Comment</key>
 				<string>t1-10.12-AppleHDA-Realtek-ALC...(cloverALC-all_codecs)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				ihnUEQ==
@@ -350,7 +350,7 @@
 				<key>Comment</key>
 				<string>t1-10.11-AppleHDA-Realtek-ALC...(cloverALC-all_codecs)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				gxnUEQ==
@@ -488,7 +488,7 @@
 				<key>Comment</key>
 				<string>Unsupported_Audio_Device_ID_Kaby_Lake</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				PXCh
@@ -526,7 +526,7 @@
 				<key>Comment</key>
 				<string>Unsupported_Audio_Device_ID_Kaby_Lake</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				PXCh
@@ -584,7 +584,7 @@
 				<key>Comment</key>
 				<string>Unsupported_Audio_Device_ID_Kaby_Lake</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				PXCh
@@ -622,7 +622,7 @@
 				<key>Comment</key>
 				<string>Unsupported_Audio_Device_ID_Kaby_Lake</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				PXCh
