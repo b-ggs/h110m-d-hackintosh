@@ -182,6 +182,8 @@
 	<dict>
 		<key>Arguments</key>
 		<string>dart=0 darkwake=0</string>
+		<key>CustomLogo</key>
+		<string>None</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
