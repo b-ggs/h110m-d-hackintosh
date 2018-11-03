@@ -17,7 +17,7 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 * ALC887 via AppleALC
 
 ## Miscellaneous Kexts
-* NoVPAJpeg to support viewing JPEGs using Preview
+* [NoVPAJpeg to support viewing JPEGs using Preview](https://www.insanelymac.com/forum/topic/334881-how-to-fix-quick-look-and-preview-issues-in-mojave/)
 
 ## BIOS Configurations
 * CSM (Compatibility Support Module): Enabled
@@ -33,5 +33,4 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 
 ## Sources
 * https://github.com/volca/asus-h110m-k-d3-hackintosh
-* https://www.insanelymac.com/forum/topic/334881-how-to-fix-quick-look-and-preview-issues-in-mojave/
-* https://github.com/vulgo/NoVPAJpeg/releases
+* https://github.com/vulgo/NoVPAJpeg
