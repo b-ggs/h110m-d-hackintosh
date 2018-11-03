@@ -29,7 +29,7 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 * Parallel Port: Off
 
 ## Known Issues
-* Monitor connected to DVI port does not work on startup. However when the monitor wakes up from sleep it works fine.
+* Display connected to DVI port does not work on startup. One workaround is to put the system to sleep. Upon wake, the display works fine.
 
 ## Sources
 * https://github.com/volca/asus-h110m-k-d3-hackintosh
