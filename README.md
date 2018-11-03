@@ -33,4 +33,3 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 
 ## Sources
 * https://github.com/volca/asus-h110m-k-d3-hackintosh
-* https://github.com/vulgo/NoVPAJpeg
