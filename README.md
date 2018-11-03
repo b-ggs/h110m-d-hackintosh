@@ -19,6 +19,15 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 ## Miscellaneous Kexts
 * NoVPAJpeg to support viewing JPEGs using Preview
 
+## BIOS Configurations
+* CSM (Compatibility Support Module): Enabled
+* Intel Virtualization: Disabled
+* VT-d: Disabled
+* Primary Display: PCIE
+* iGPU Multi-Monitor: Disabled
+* Serial Port: Off
+* Parallel Port: Off
+
 ## Known Issues
 * Monitor connected to DVI port does not work on startup. However when the monitor wakes up from sleep it works fine.
 
