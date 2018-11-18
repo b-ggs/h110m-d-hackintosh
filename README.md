@@ -1,5 +1,4 @@
-# ASUS H110M-D Hackintosh
-
+# ASUS H110M-D Hackintosh 
 Configured for macOS 10.14.1 Mojave as iMac17,1
 
 ## System Configuration:
@@ -31,8 +30,7 @@ Configured for macOS 10.14.1 Mojave as iMac17,1
 
 ## Remarks
 * If you place any kexts in /S/L/E or /L/E, you will need to rebuild the cache by navigating to each directory and running `sudo kextcache -i /`
-* If you are booting between Windows 10 and macOS and your Ethernet connection acts up in System Preferences -> Network, boot to Windows and fire up Device Manager and open the network card. Navigate to Advanced -> set Wake on Magic Packet to Disabled.
-
+* If you are booting between Windows 10 and macOS and your Ethernet connection acts up in System Preferences -> Network, boot to Windows and fire up Device Manager and open the network card. Navigate to Advanced -> Set Wake on Magic Packet to Disabled.
 
 ## Sources
 * https://github.com/volca/asus-h110m-k-d3-hackintosh
